@@ -190,6 +190,10 @@ footer {
     font-family: Arial, sans-serif;
 }
 
+.homecenter {
+    text-align: center;
+}
+
 /* Home page styles */
 .home-container {
     text-align: center;
