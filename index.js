@@ -49,3 +49,7 @@ dots.forEach((dot, index) => {
     });
 });
 
+//Year
+const yearSpan = document.getElementById("year");
+const currentYear = new Date().getFullYear();
+yearSpan.textContent = currentYear;
