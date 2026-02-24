@@ -192,7 +192,9 @@ footer {
 
 .homecenter {
     text-align: center;
-    list-style: none;
+}
+.homecenter ul {
+    list-style: none !important;
 }
 
 /* Home page styles */
